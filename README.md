@@ -115,7 +115,6 @@ I believe the best way to learn AI is by building. I continuously work on projec
 
 - LinkedIn: www.linkedin.com/in/houssem-ben-chaabane-561988252
 - Email: houssembenchaben4@gmail.com
-- GitHub: https://github.com/yourusername
 
 ---
 
