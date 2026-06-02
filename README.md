@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Houssem Ben Chaben
+# Hi there 👋, I'm Houssem Ben Chaabane
 
 🎓 AI Engineering Student  
 🤖 Passionate about Artificial Intelligence, Computer Vision, Deep Learning, and Agentic AI  
